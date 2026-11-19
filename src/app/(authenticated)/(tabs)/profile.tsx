@@ -35,7 +35,7 @@ export default function Profile() {
           <View style={styles.info}>
             <View style={styles.headerRow}>
               <Image
-                source={require("../../../../assets/jusprofile.jpg.jpg")}
+                source={require("../../../../assets/jusprofile.jpg")}
                 style={styles.avatar}
               />
 

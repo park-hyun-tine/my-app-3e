@@ -123,7 +123,7 @@ function Stories() {
         {/* Create story card */}
         <View style={styles.createCard}>
           <Image
-            source={require("../../../../assets/jusprofile.jpg.jpg")}
+            source={require("../../../../assets/jusprofile.jpg")}
             style={styles.createPhoto}
           />
           <View style={styles.createBottom}>
@@ -165,7 +165,7 @@ function Composer() {
     <View style={styles.composer}>
       <View style={styles.composerRow}>
         <Image
-          source={require("../../../../assets/jusprofile.jpg.jpg")}
+          source={require("../../../../assets/jusprofile.jpg")}
           style={styles.composerAvatar}
         />
         <View style={styles.composerInput}>
